@@ -14,6 +14,7 @@
 		<item>AP</item>
 		<item>TORCH</item>
 		<item>SWAGGER</item>
+		<item>4G</item>
 	</string-array>
 	
 	<string-array name="available_toggles_values">
@@ -28,7 +29,8 @@
 		<item>Data</item>
 		<item>Tethering (AP)</item>
 		<item>Torch</item>
-		<item>Swagger</item>
+		<item>Swag</item>
+		<item>4G</item>
 	</string-array>
 
 </resources>

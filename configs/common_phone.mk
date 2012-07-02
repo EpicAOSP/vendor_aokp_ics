@@ -18,7 +18,7 @@ PRODUCT_COPY_FILES += \
 	vendor/aokp/prebuilt/common/bin/dynimage_ibeats_x.bin:system/bin/dynimage_ibeats_x.bin \
 	vendor/aokp/prebuilt/common/bin/peqimage_ibeats.bin:system/bin/peqimage_ibeats.bin \
 	vendor/aokp/prebuilt/common/bin/peqimage_ibeats_solo.bin:system/bin/peqimage_ibeats_solo.bin \
-	vendor/aokp/prebuilt/common/bin/peqimage_ibeats_solo_x.bin:system/bin/peqimage_ibeats_solo_x.bin \															
+	vendor/aokp/prebuilt/common/bin/peqimage_ibeats_solo_x.bin:system/bin/peqimage_ibeats_solo_x.bin \														
 	vendor/aokp/prebuilt/common/bin/peqimage_ibeats_x.bin:system/bin/peqimage_ibeats_x.bin \
 	vendor/aokp/prebuilt/common/etc/HP_Audio.csv:system/etc/HP_Audio.csv \
 	vendor/aokp/prebuilt/common/etc/audio_effects.conf:system/etc/audio_effects.conf \
@@ -40,14 +40,12 @@ PRODUCT_COPY_FILES += \
 	vendor/aokp/prebuilt/common/etc/peqimage_ibeats_solo.bin:system/etc/peqimage_ibeats_solo.bin \
 	vendor/aokp/prebuilt/common/etc/peqimage_ibeats_solo_x.bin:system/etc/peqimage_ibeats_solo_x.bin \
 	vendor/aokp/prebuilt/common/etc/peqimage_ibeats_x.bin:system/etc/peqimage_ibeats_x.bin \
-	vendor/aokp/prebuilt/common/lib/libaudiopreprocessing.so:system/lib/libaudiopreprocessing.so \	
+	vendor/aokp/prebuilt/common/lib/libaudiopreprocessing.so:system/lib/libaudiopreprocessing.so \
 	vendor/aokp/prebuilt/common/lib/libbundlewrapper.so:system/lib/libbundlewrapper.so \
 	vendor/aokp/prebuilt/common/lib/libcyanogen-dsp.so:system/lib/libcyanogen-dsp.so \
 	vendor/aokp/prebuilt/common/lib/libreverbwrapper.so:system/lib/libreverbwrapper.so \
-	vendor/aokp/prebuilt/common/lib/libvisualizer.so:system/lib/lib/libvisualizer.so \	
+	vendor/aokp/prebuilt/common/lib/libvisualizer.so:system/lib/lib/libvisualizer.so \
 	device/samsung/epic4gtouch/configs/apns-conf.xml:system/etc/apns-conf.xml
-
-
 # Inherit drm blobs
 -include vendor/aokp/configs/common_drm_phone.mk
 

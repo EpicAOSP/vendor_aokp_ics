@@ -18,7 +18,7 @@ PRODUCT_COPY_FILES += \
 	vendor/aokp/prebuilt/common/bin/dynimage_ibeats_x.bin:system/bin/dynimage_ibeats_x.bin \
 	vendor/aokp/prebuilt/common/bin/peqimage_ibeats.bin:system/bin/peqimage_ibeats.bin \
 	vendor/aokp/prebuilt/common/bin/peqimage_ibeats_solo.bin:system/bin/peqimage_ibeats_solo.bin \
-	vendor/aokp/prebuilt/common/bin/peqimage_ibeats_solo_x.bin:system/bin/peqimage_ibeats_solo_x.bin \														
+	vendor/aokp/prebuilt/common/bin/peqimage_ibeats_solo_x.bin:system/bin/peqimage_ibeats_solo_x.bin \
 	vendor/aokp/prebuilt/common/bin/peqimage_ibeats_x.bin:system/bin/peqimage_ibeats_x.bin \
 	vendor/aokp/prebuilt/common/etc/HP_Audio.csv:system/etc/HP_Audio.csv \
 	vendor/aokp/prebuilt/common/etc/audio_effects.conf:system/etc/audio_effects.conf \
